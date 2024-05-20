@@ -12,3 +12,5 @@ This project is a Discord application that simulates a ticket booking system for
 
 The application is still in progress, with plans to create a frontend. The project also includes **m3.pdf**, which contains conceptual documentation such as functional and non-functional requirements, and database EER and ERD diagrams. 
 
+Note: This project was transfered over from Replit which is where it was initially developed, resulting in currently having few commits. But knowledge of git will result in a more extensive workflow and commit history as the project continues development. 
+
